@@ -205,4 +205,4 @@ v1.0 — Initial public conceptual disclosure
 ## Citation
 
 If you use this framework or refer to the SIG-LLM™ architecture in your research, please cite it as follows:
-> Aiyelabegan, F. A. (2024). SIG-LLM™: A Structure-Input Guided Framework for Human-Governed Neuro-Symbolic Systems. https://github.com/faridah-git/SIG-LLM-Whitepaper. Licensed under CC BY-NC 4.0
+> Aiyelabegan, F. A. (2026). SIG-LLM™: A Structure-Input Guided Framework for Human-Governed Neuro-Symbolic Systems. https://github.com/faridah-git/SIG-LLM-Whitepaper. Licensed under CC BY-NC 4.0
