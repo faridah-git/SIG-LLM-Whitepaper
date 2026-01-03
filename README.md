@@ -15,6 +15,13 @@ Provisional Disclosure: The SIG-LLM™ framework was first disclosed conceptuall
 
 AI-Assisted Writing Disclosure: Portions of this manuscript were drafted with the assistance of AI language models to aid clarity, organization, and presentation. All intellectual content, analysis, and conceptual contributions remain solely the author’s work.
 
+## License
+
+This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0). 
+You may share and adapt the content for non-commercial purposes only, with attribution. 
+Commercial use requires explicit permission from the author. 
+[Read full license here](LICENSE)
+
 ## **1. Ontology**
 
 SIG-LLM™ (Structure-Input Guided Large Language Model) is not a pipeline, a fixed workflow, a prompt engineering technique, or a retrieval‑augmented variant. SIG‑LLM™ is a Neuro-Symbolic framework that synthesizes the probabilistic capabilities of Large Language Models (Neural) with deterministic logical constraints (Symbolic), governed by a structured human-in-the-loop schema, in which:
